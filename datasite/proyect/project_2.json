@@ -1,13 +1,13 @@
 
 {
-  "titulo": "Alpha",
-  "descripcion_breve": "Una aplicación revolucionaria de gestión de tareas con IA.",
-  "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=Alpha",
-  "link": "https://example.com/alpha",
+  "titulo": "Search Index",
+  "descripcion_breve": "Una demostración sencilla de un indexador de búsqueda.",
+  "logo": "https://github.com/mcapoterovaina-tech/buscador-inteligente/blob/main/IMG/298972.png?raw=true",
+  "link": "https://mcapoterovaina-tech.github.io/buscador-inteligente/busqueda-inteligente/buscar.html",
   "galeria": [
-    "https://picsum.photos/800/600?random=20",
-    "https://picsum.photos/800/600?random=21",
-    "https://picsum.photos/800/600?random=22"
+    "https://github.com/mcapoterovaina-tech/buscador-inteligente/blob/main/IMG/Captura%20de%20pantalla_5-12-2025_173839_mcapoterovaina-tech.github.io.jpeg?raw=true",
+    "https://github.com/mcapoterovaina-tech/buscador-inteligente/blob/main/IMG/Captura%20de%20pantalla_5-12-2025_173856_mcapoterovaina-tech.github.io.jpeg?raw=true",
+    "https://github.com/mcapoterovaina-tech/buscador-inteligente/blob/main/IMG/Captura%20de%20pantalla_5-12-2025_173954_mcapoterovaina-tech.github.io.jpeg?raw=true"
   ],
-  "descripcion_completa": "Proyecto Alpha redefine la productividad. Utilizando algoritmos avanzados de aprendizaje automático, esta aplicación no solo organiza tus tareas, sino que predice tus niveles de energía y sugiere el mejor momento para realizarlas. Construida con React Native y Node.js."
+  "descripcion_completa": "El repositorio buscador-inteligente es una aplicación web desarrollada en JavaScript, HTML y CSS que implementa un sistema de búsqueda avanzada. Su objetivo es ofrecer una experiencia más dinámica y precisa que un buscador tradicional, permitiendo filtrar, ordenar y mostrar resultados de manera clara y organizada. La lógica del proyecto se centra en recorrer colecciones de datos y aplicar criterios de coincidencia para devolver resultados relevantes, mientras que la interfaz presenta un diseño sencillo y accesible para el usuario. El buscador está pensado como una herramienta modular y extensible: se pueden añadir nuevas fuentes de datos o mejorar los algoritmos de coincidencia sin alterar la estructura principal. En esencia, este proyecto busca demostrar cómo construir un motor de búsqueda personalizado, capaz de adaptarse a distintos contextos y necesidades, con un enfoque práctico y educativo."
 }
