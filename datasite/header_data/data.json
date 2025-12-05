@@ -1,0 +1,16 @@
+{
+  "titulo": "DEV.WORLD",
+  "tex": "Creando el futuro, un pixel a la vez.",
+  "linkedin": "https://www.linkedin.com/in/michael-gabriel-168b44389/",
+  "github": "https://github.com/mcapoterovaina-tech",
+  "twitter": "https://twitter.com",
+  "derechos_de_autor": "© 2025 Maikol Dev. Todos los derechos reservados.",
+  "texto_ultimo": "Hecho con ❤️ en React",
+  "brand": "DEV.WORLD",
+  "nav_items": [
+    { "label": "Inicio", "href": "#" },
+    { "label": "Proyectos", "href": "#projects" },
+    { "label": "Sobre Mí", "href": "#about" },
+    { "label": "Contacto", "href": "#footer" }
+  ]
+}

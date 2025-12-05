@@ -1,0 +1,13 @@
+
+{
+  "titulo": "Proyecto Alpha",
+  "descripcion_breve": "Una aplicación revolucionaria de gestión de tareas con IA.",
+  "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=Alpha",
+  "link": "https://example.com/alpha",
+  "galeria": [
+    "https://picsum.photos/800/600?random=20",
+    "https://picsum.photos/800/600?random=21",
+    "https://picsum.photos/800/600?random=22"
+  ],
+  "descripcion_completa": "Proyecto Alpha redefine la productividad. Utilizando algoritmos avanzados de aprendizaje automático, esta aplicación no solo organiza tus tareas, sino que predice tus niveles de energía y sugiere el mejor momento para realizarlas. Construida con React Native y Node.js."
+}
