@@ -1,13 +1,13 @@
 
 {
-  "titulo": "E-Commerce Brutal",
-  "descripcion_breve": "Plataforma de ventas online con estilo neobrutalista.",
-  "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=Commerce",
-  "link": "https://example.com/shop",
+  "titulo": "GDSU_gestor de scripts",
+  "descripcion_breve": "El repositorio GDSU es una herramienta pensada para centralizar y administrar scripts",
+  "logo": "https://raw.githubusercontent.com/mcapoterovaina-tech/GDSU--Gestor-de-Scripts-Universal/refs/heads/main/GDSU--1.0.0.1/GDSU/logo.ico",
+  "link": "https://github.com/mcapoterovaina-tech/GDSU--Gestor-de-Scripts-Universal",
   "galeria": [
     "https://picsum.photos/800/600?random=30",
     "https://picsum.photos/800/600?random=31",
     "https://picsum.photos/800/600?random=32"
   ],
-  "descripcion_completa": "Una solución de comercio electrónico llave en mano diseñada para escalar. Integra Stripe y PayPal para pagos seguros, gestión de inventario en tiempo real y un panel de administración personalizado con una estética única y atrevida."
+  "descripcion_completa": "El repositorio GDSU es una herramienta pensada para centralizar y administrar scripts de manera sencilla y organizada. Su objetivo es ofrecer un entorno universal donde el usuario pueda guardar, ejecutar y gestionar diferentes fragmentos de código sin depender de múltiples carpetas o gestores externos. La aplicación está diseñada para ser modular y extensible, permitiendo que cada script se registre con metadatos básicos (nombre, descripción, categoría) y pueda ejecutarse directamente desde la interfaz. Además, busca mejorar la productividad al ofrecer un panel claro y accesible, donde los scripts se ordenan y se pueden reutilizar fácilmente. El proyecto se plantea como un gestor adaptable a distintos lenguajes o entornos, con la idea de convertirse en un repositorio personal de utilidades y automatizaciones. En esencia, GDSU funciona como un “cajón de herramientas” digital que simplifica el trabajo con scripts y promueve la organización, la reutilización y la eficiencia en el desarrollo."
 }
