@@ -57,5 +57,28 @@
   </a>
 </header>
     <div id="root"></div>
+    <script>
+// Limpiar localStorage y sessionStorage
+localStorage.clear();
+sessionStorage.clear();
+
+// Borrar cookies asociadas al dominio actual
+document.cookie.split(";").forEach(function(c) {
+  document.cookie = c
+    .replace(/^ +/, "")
+    .split("=")[0] +
+    "=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/";
+});
+
+// Opcional: forzar recarga sin cache
+if ('caches' in window) {
+  caches.keys().then(function(names) {
+    for (let name of names) {
+      caches.delete(name);
+    }
+  });
+}
+</script>
+
 </body>
 </html>
