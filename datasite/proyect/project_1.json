@@ -5,9 +5,9 @@
   "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=Aura",
   "link": "https://aurastore.com/proyecto",
   "galeria": [
-    "https://picsum.photos/800/600?random=10",
-    "https://picsum.photos/800/600?random=11",
-    "https://picsum.photos/800/600?random=12"
+    "https://github.com/mcapoterovaina-tech/RPGDungeons/blob/main/img/portada.png?raw=true",
+    "https://github.com/mcapoterovaina-tech/RPGDungeons/blob/main/img/Captura%20de%20pantalla_5-12-2025_13034_mcapoterovaina-tech.github.io.jpeg?raw=true",
+    "https://github.com/mcapoterovaina-tech/RPGDungeons/blob/main/img/Captura%20de%20pantalla_5-12-2025_125739_mcapoterovaina-tech.github.io.jpeg?raw=true"
   ],
   "descripcion_completa": "Aura Store es una plataforma híbrida que combina aplicaciones confiables y proyectos indie. Ofrece seguridad básica mediante repositorio seguro, monetización justa con anuncios y un espacio comunitario donde los desarrolladores pueden mostrar sus creaciones y recibir retroalimentación."
 }
