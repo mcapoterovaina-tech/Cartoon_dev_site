@@ -2,8 +2,8 @@
 {
   "titulo": "Dungeon RPG",
   "descripcion_breve": "Plataforma segura y transparente para descubrir apps en Windows.",
-  "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=Aura",
-  "link": "https://aurastore.com/proyecto",
+  "logo": "https://github.com/mcapoterovaina-tech/RPGDungeons/blob/main/img/logo/logo.png?raw=true",
+  "link": "https://mcapoterovaina-tech.github.io/RPGDungeons/rpg-dungeon-game/index.html",
   "galeria": [
     "https://github.com/mcapoterovaina-tech/RPGDungeons/blob/main/img/portada.png?raw=true",
     "https://github.com/mcapoterovaina-tech/RPGDungeons/blob/main/img/Captura%20de%20pantalla_5-12-2025_13034_mcapoterovaina-tech.github.io.jpeg?raw=true",
