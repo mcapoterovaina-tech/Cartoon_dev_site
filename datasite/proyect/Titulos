@@ -1,0 +1,11 @@
+{
+  "titulo": "Certificados/titulo",
+  "descripcion_breve": "Mis estudios",
+  "logo": "https://github.com/mcapoterovaina-tech/",
+  "link": "https://www.facebook.com/maikolgabriel.capoterovaina": [
+    "https://github.com/mcapoterovaina-tech/",
+    "https://github.com/mcapoterovaina-tech/",
+    "https://github.com/mcapoterovaina-tech/"
+  ],
+  "descripcion_completa": "Soy un Técnico Medio en Electrónica graduado de la Escuela Industrial Carlos Fiol , con una especialización técnica que se complementa con un sólido perfil como desarrollador Full-Stack en el stack JavaScript/TypeScript. Esta formación híbrida me permite abordar proyectos desde una perspectiva integral, dominando tanto el mantenimiento y diagnóstico de sistemas físicos y electrónicos como la creación de arquitecturas digitales dinámicas mediante React.js y Node.js. Me distingo por mi capacidad de aprendizaje autodidacta, que me ha llevado a alcanzar un nivel N4 en japonés , y por una notable adaptabilidad para resolver problemas complejos en entornos tecnológicos exigentes."
+}
